@@ -1,0 +1,13 @@
+body{
+  background: chocolate;
+}
+
+.idol{
+  color: antiquewhite;
+}
+
+h1{
+  font-size: 36px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid white;
+}
